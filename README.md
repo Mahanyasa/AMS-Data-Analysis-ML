@@ -1,5 +1,4 @@
-
-#Project Name: Attendance Management System Data ML Analysis
+Project Name: Attendance Management System Data ML Analysis
 
 Project Description: This project aims to analyze the attendance data of a company using machine learning algorithms. The attendance data will be obtained from an attendance management system, and it will contain information about the employees' attendance, such as the date, time, and duration of their attendance.
 
